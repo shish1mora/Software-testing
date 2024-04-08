@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkrYa5Bdu20t+yHlWW+tROcHTmfxNUQCWTObRmWgiDeQJizpU7CY5iymxvtW+XYsAt3K/9Lv3vJXa4OUTmHBTw==",
+  "success": true,
+  "projectFilePath": "D:\\4 курс\\Тестирование ПО\\Lb3 01.10.23\\DataTimePersonal\\DataTimePersonal\\DataTimePersonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xzidx\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
