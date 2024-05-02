@@ -1,0 +1,14 @@
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\bin\Debug\LABA4TEST.exe.config
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\bin\Debug\LABA4TEST.exe
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\bin\Debug\LABA4TEST.pdb
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.csproj.AssemblyReference.cache
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.csproj.CoreCompileInputs.cache
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.exe
+C:\Users\nosko\source\repos\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.pdb
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\bin\Debug\LABA4TEST.exe.config
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\bin\Debug\LABA4TEST.exe
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\bin\Debug\LABA4TEST.pdb
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.csproj.AssemblyReference.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.csproj.CoreCompileInputs.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.exe
+C:\Users\4702306\source\repos\Collective-development-of-software-products\LABA4TEST\LABA4TEST\obj\Debug\LABA4TEST.pdb
